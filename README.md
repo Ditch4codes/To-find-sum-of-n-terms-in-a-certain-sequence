@@ -1,4 +1,3 @@
-TO FIND THE SUM OF FIRST N POSITIVE INTEGERS WITHIN THE GIVEN INTERVALS.
-
-
-YOU CAN RUN THE PROGRAM IN ANY PYTHON INTERPRETER, AFTER WHICH THE USER WILL BE PROMPTED TO ENTER N(THE NUMBER OF TERMS), FIRST TERM, AND LAST TERM OF THE INTERVAL.
+ᴛᴏ ꜰɪɴᴅ ᴛʜᴇ ꜱᴜᴍ ᴏꜰ ꜰɪʀꜱᴛ ɴ ᴘᴏꜱɪᴛɪᴠᴇ ɪɴᴛᴇɢᴇʀꜱ ᴏꜰ ᴛʜᴇ ɢɪᴠᴇɴ ɪɴᴛᴇʀᴠᴀʟ.
+ʏᴏᴜ ᴄᴀɴ ʀᴜɴ ᴛʜᴇ ᴘʀᴏɢʀᴀᴍ ɪɴ ᴀɴʏ ᴘʏᴛʜᴏɴ ɪɴᴛᴇʀᴘʀᴇᴛᴇʀ, ᴀꜰᴛᴇʀ ᴡʜɪᴄʜ ᴛʜᴇ ᴜꜱᴇʀ ᴡɪʟʟ ʙᴇ ᴘʀᴏᴍᴘᴛᴇᴅ ᴛᴏ 
+ᴇɴᴛᴇʀ ɴ(ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏꜰ ᴛᴇʀᴍꜱ), ꜰɪʀꜱᴛ ᴛᴇʀᴍ, ᴀɴᴅ ʟᴀꜱᴛ ᴛᴇʀᴍ ᴏꜰ ᴛʜᴇ ɪɴᴛᴇʀᴠᴀʟ.
